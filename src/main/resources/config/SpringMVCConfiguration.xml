@@ -15,13 +15,14 @@
                                 expression="org.springframework.web.bind.annotation.ControllerAdvice"/>
     </context:component-scan>
 
-    <!-- 配置视图解析器 -->
+    <!-- 配置视图解析器 控制器类中就返回的-相应的页面字符串-->
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/WEB-INF/jsp/"/>
         <property name="suffix" value=".jsp"/>
     </bean>
 
     <!-- 处理静态资源的访问 -->
+
     <mvc:default-servlet-handler/>
 
     <mvc:annotation-driven/>
