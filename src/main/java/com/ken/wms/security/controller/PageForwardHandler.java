@@ -22,7 +22,9 @@ public class PageForwardHandler {
      */
     @RequestMapping("login")
     public String loginPageForward() {
-        // 判断但钱用户是否已经登陆
+        // 判断用户是否已经登陆
+        System.out.println("在用户没有登录验证成功时跳转到login页面");
+
         Subject currentSubject = SecurityUtils.getSubject();
         if (!currentSubject.isAuthenticated())
             return "login";
@@ -37,6 +39,7 @@ public class PageForwardHandler {
      */
     @RequestMapping("")
     public String showLoginView() {
+        System.out.println("在用户登录验证成功时跳转到mainPage页面");
         return "mainPage";
     }
 }

@@ -1,9 +1,8 @@
 body {
-	background: url(../../../media/images/backgroundPic.png);
+	background: url(../../../media/images/login.jpg);
 	background-size: 100%;
 	background-position: center;
-
-	margin-top:150px;
+	padding-top:150px;
 }
 
 #checkCodeImg:hover{

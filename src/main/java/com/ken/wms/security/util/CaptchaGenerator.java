@@ -24,8 +24,8 @@ public class CaptchaGenerator {
     /**
      * 图形验证码参数
      */
-    private static final int width = 80;// 验证码图片的宽度
-    private static final int height = 35;// 验证码图片的高度
+    private static final int width = 105;// 验证码图片的宽度
+    private static final int height = 45;// 验证码图片的高度
     private static final int characterCount = 4;// 验证码图片字符的个数
     private static final int lineCount = 20;// 验证码干扰线数目
     private static Font font;// 验证码字体样式

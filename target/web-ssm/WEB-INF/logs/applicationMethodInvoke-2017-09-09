@@ -1,0 +1,26 @@
+[09-09-11-11-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-09-11-11-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-09-11-11-15][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-09-11-12-13][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:addRepositoryAdmin	args：RepositoryAdmin [id=null, name=张瑶赐, sex=男, tel=15909314794, address=重庆理工大学, birth=2017-09-08, repositoryBelongID=null]
+ [09-09-11-12-13][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserInfo	args：UserInfoDTO{userID=1020, userName='张瑶赐', password='1020', firstLogin=false, role=[commonsAdmin]}
+ [09-09-11-12-13][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin添加仓库管理员信息成功
+ [09-09-11-12-37][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：05张瑶赐
+ [09-09-13-22-04][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-09-13-22-04][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-09-13-22-04][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-09-13-38-18][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-09-13-38-18][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-09-13-38-18][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-09-14-08-41][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-09-14-08-41][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-09-14-08-41][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-09-14-18-30][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-09-14-18-30][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-09-14-18-30][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-09-20-32-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-09-20-32-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-09-20-32-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-09-20-33-39][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：05刘明
+ [09-09-20-33-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：05刘明
+ [09-09-20-34-07][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：05醴陵荣旗瓷业有限公司
+ 

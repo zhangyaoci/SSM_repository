@@ -14,64 +14,75 @@
 	<!-- 定义容器 -->
 	<div class="container">
 		<div class="row">
-			<div class="col-md-4 col-sm-3"></div>
+			<div class="col-md-3 col-sm-3"></div>
 
 			<!-- 这一列为登陆表单 -->
-			<div class="col-md-4 col-sm-6">
+			<div class="col-md-6 col-sm-6">
 				<div class="panel panel-default">
 
 					<!-- 登陆面板的标题 -->
-					<div class="panel-title" style="text-align: center">
-						<h2>登录</h2>
+					<div class="panel-title" style="background: #fff; height: 120px;">
 					</div>
 
 					<!-- 登陆面板的主体 -->
-					<div class="panel-body">
+					<div class="panel-body" style="background:#eee; height: 260px;">
+
+						<form id="login_form" class="form-horizontal" style="" role="form">
+								<div class="form-group">
+									<div class="col-sm-offset-2  col-md-8">
+										<div class="input-group">
+										<span class="input-group-addon">
+											<span class="glyphicon glyphicon-user" style="font-size: 20px;"></span></span>
+											<input type="text" id="userID" class="form-control" style="height: 45px"
+												   placeholder="用户ID" name="userID" />
+										</div>
+									</div>
+									<div class="col-md-4"></div>
+								</div>
+
+
+								<div class="form-group">
+									<div class=" col-sm-offset-2  col-md-8">
+										<div class="input-group">
+										<span class="input-group-addon">
+											<span  style="font-size: 20px;" class="glyphicon glyphicon-lock"></span></span>
+											<input type="password" id="password" class="form-control" style="height: 45px"
+												   placeholder="密码" name="password">
+										</div>
+									</div>
+									<div class="col-md-4"></div>
+								</div>
+
+
+								<div class="form-group">
+									<div class=" col-sm-offset-2  col-md-5">
+										<div class="input-group">
+										<span class="input-group-addon">
+											<span  style="font-size: 20px;" class="glyphicon glyphicon-barcode"></span></span>
+											<input type="text" id="checkCode" class="form-control" style="height: 45px"
+												   placeholder="验证码" name="checkCode">
+										</div>
+									</div>
+
+									<img id="checkCodeImg" alt="checkCodeImg" style="margin-left: 16px"
+										 src="account/checkCode/1">
+									<div class="col-md-4"></div>
+								</div>
+
+
+								<div class="form-group">
+
+									<div class=" col-sm-offset-2  col-md-8">
+										<button id="submit" type="submit"
+												class="btn btn-primary col-md-12"
+												style="height: 45px;background: #de995e;border: #de995e;">
+											登陆</button>
+									</div>
+								</div>
+
+							</form>
 
 						<!-- 表单 -->
-						<form id="login_form" class="form-horizontal" style="">
-
-							<div class="form-group">
-								<label class="control-label col-md-4 col-sm-4">用户ID：</label>
-								<div class="col-md-7 col-sm-7">
-									<input type="text" id="userID" class="form-control"
-										placeholder="用户ID" name="userID" />
-								</div>
-							</div>
-
-							<div class="form-group">
-								<label class="control-label col-md-4 col-sm-4"> <!-- <span class="glyphicon glyphicon-lock"></span> -->
-									密码：
-								</label>
-								<div class="col-md-7 col-sm-7">
-									<input type="password" id="password" class="form-control"
-										placeholder="密码" name="password">
-								</div>
-							</div>
-
-							<div class="form-group">
-								<label class="control-label col-md-4 col-sm-4"> <!-- <span class="glyphicon glyphicon-lock"></span> -->
-									验证码：
-								</label>
-								<div class="col-md-5 col-sm-4">
-									<input type="text" id="checkCode" class="form-control"
-										placeholder="验证码" name="checkCode">
-								</div>
-								<div>
-									<img id="checkCodeImg" alt="checkCodeImg"
-										src="account/checkCode/1">
-								</div>
-							</div>
-
-							<div>
-								<div class="col-md-4 col-sm-4"></div>
-								<div class="col-md-4 col-sm-4">
-									<button id="submit" type="submit" class="btn btn-primary">
-										&nbsp;&nbsp;&nbsp;&nbsp;登陆&nbsp;&nbsp;&nbsp;&nbsp;</button>
-								</div>
-								<div class="col-md-4 col-sm-4"></div>
-							</div>
-						</form>
 					</div>
 				</div>
 			</div>
