@@ -21,7 +21,8 @@
 				<div class="panel panel-default">
 
 					<!-- 登陆面板的标题 -->
-					<div class="panel-title" style="background: #fff; height: 120px;">
+					<div class="panel-title" style="background: #fff; height: 80px;text-align: center;line-height: 80px;font-size: 30px;">
+						仓库管理系统入口
 					</div>
 
 					<!-- 登陆面板的主体 -->
