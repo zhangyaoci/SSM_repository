@@ -1,0 +1,187 @@
+[09-14-14-19-36][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-14-57-46][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-14-57-46][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-14-57-46][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-14-59-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-14-59-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-14-59-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-15-00-22][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-15-06-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-15-06-52][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-15-15-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-15-19-54][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-15-19-54][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-15-32-55][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-16-13-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1logout
+ [09-14-16-13-18][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-16-13-18][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-16-13-18][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-16-13-22][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-16-13-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-16-13-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectStockRecord	args：-1none05
+ [09-14-16-13-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-16-13-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectStockRecord	args：-1none05
+ [09-14-16-15-52][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectStockRecord	args：10042016-11-232017-09-13all05
+ [09-14-16-17-05][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-16-17-06][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-16-17-19][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectUserOperationRecord	args：-105
+ [09-14-16-17-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all05
+ [09-14-16-17-37][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all55
+ [09-14-16-17-38][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all105
+ [09-14-16-17-39][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all155
+ [09-14-16-17-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all205
+ [09-14-16-17-41][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all405
+ [09-14-16-17-44][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all205
+ [09-14-16-17-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all255
+ [09-14-16-17-47][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all355
+ [09-14-16-17-47][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all405
+ [09-14-16-17-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all355
+ [09-14-16-17-51][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all255
+ [09-14-16-17-52][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all205
+ [09-14-16-17-55][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args：-1all255
+ [09-14-16-29-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-16-29-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-16-29-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-16-41-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-16-41-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-16-41-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-16-45-55][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-16-45-59][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-16-46-20][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsName	args：鞋子100405
+ [09-14-16-52-13][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsName	args：鞋子100405
+ [09-14-16-52-15][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsName	args：鞋子100405
+ [09-14-16-52-17][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsName	args：鞋子100305
+ [09-14-16-52-19][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsName	args：鞋子100505
+ [09-14-16-53-01][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：106100405
+ [09-14-16-53-03][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：106100305
+ [09-14-16-54-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：105100505
+ [09-14-16-54-01][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：105100505
+ [09-14-16-54-06][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：105100405
+ [09-14-16-54-16][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：106100305
+ [09-14-16-54-18][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：106100405
+ [09-14-16-54-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：106100505
+ [09-14-16-54-23][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：105100505
+ [09-14-16-54-26][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：105100305
+ [09-14-16-54-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：105100405
+ [09-14-16-55-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：106100405
+ [09-14-17-04-41][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-17-05-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：鞋子
+ [09-14-17-05-30][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-17-05-37][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：
+ [09-14-17-05-38][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：鞋子
+ [09-14-17-06-04][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-17-06-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：-1-1鞋子
+ [09-14-17-06-19][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：-1-1
+ [09-14-17-06-52][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：
+ [09-14-17-06-53][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：鞋子
+ [09-14-17-09-29][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：
+ [09-14-17-09-41][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：
+ [09-14-17-09-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：鞋子
+ [09-14-17-11-33][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：1061003-1-1
+ [09-14-17-11-35][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：1061004-1-1
+ [09-14-17-11-38][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：1061003-1-1
+ [09-14-17-11-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：1061005-1-1
+ [09-14-17-11-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:stockInOperation	args：1013106100540admin
+ [09-14-17-11-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:storageIncrease	args：106100540
+ [09-14-17-11-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin货物入库成功
+ [09-14-17-12-06][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByGoodsID	args：1061004-1-1
+ [09-14-17-14-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-17-14-59][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：-1-1
+ [09-14-17-14-59][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectStockRecord	args：-1none05
+ [09-14-17-15-06][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectStockRecord	args：-12017-09-14all05
+ [09-14-17-17-33][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1004
+ [09-14-17-17-37][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：104
+ [09-14-17-17-43][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByRepositoryID	args：1004
+ [09-14-17-18-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:addRepositoryAdmin	args：RepositoryAdmin [id=null, name=张瑶赐, sex=男, tel=18888888888, address=重庆, birth=2017-09-14, repositoryBelongID=null]
+ [09-14-17-18-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserInfo	args：UserInfoDTO{userID=1021, userName='张瑶赐', password='1021', firstLogin=false, role=[commonsAdmin]}
+ [09-14-17-18-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin添加仓库管理员信息成功
+ [09-14-17-18-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByRepositoryID	args：1004
+ [09-14-17-18-48][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByRepositoryID	args：1004
+ [09-14-17-18-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByRepositoryID	args：1004
+ [09-14-17-18-50][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByRepositoryID	args：1004
+ [09-14-17-18-52][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByRepositoryID	args：1004
+ [09-14-17-19-09][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-19-13][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectUnassign	args：
+ [09-14-17-19-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteRepositoryAdmin	args：1021
+ [09-14-17-19-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteUserInfo	args：1021
+ [09-14-17-19-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin删除仓库管理员信息成功
+ [09-14-17-19-28][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-19-30][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1logout
+ [09-14-17-19-48][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1024
+ [09-14-17-20-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-17-20-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-17-20-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-17-20-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-20-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteRepositoryAdmin	args：1020
+ [09-14-17-20-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteUserInfo	args：1020
+ [09-14-17-20-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin删除仓库管理员信息成功
+ [09-14-17-20-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-20-53][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:addRepositoryAdmin	args：RepositoryAdmin [id=null, name=张瑶赐, sex=男, tel=18888888888, address=重庆, birth=2017-09-14, repositoryBelongID=null]
+ [09-14-17-20-53][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserInfo	args：UserInfoDTO{userID=1022, userName='张瑶赐', password='1022', firstLogin=false, role=[commonsAdmin]}
+ [09-14-17-20-53][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin添加仓库管理员信息成功
+ [09-14-17-20-53][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-21-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectUnassign	args：
+ [09-14-17-21-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateRepositoryAdmin	args：RepositoryAdmin [id=1022, name=张瑶赐, sex=男, tel=18888888888, address=重庆, birth=2017-09-14, repositoryBelongID=1005]
+ [09-14-17-21-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin修改仓库管理员信息成功
+ [09-14-17-21-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-21-13][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-21-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-21-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-21-53][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-22-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteRepositoryAdmin	args：1022
+ [09-14-17-22-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin删除仓库管理员信息失败
+ [09-14-17-22-00][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-22-04][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteRepositoryAdmin	args：1022
+ [09-14-17-22-04][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin删除仓库管理员信息失败
+ [09-14-17-22-04][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-22-15][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-22-19][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteRepositoryAdmin	args：1022
+ [09-14-17-22-19][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin删除仓库管理员信息失败
+ [09-14-17-22-19][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-22-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectUnassign	args：
+ [09-14-17-22-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateRepositoryAdmin	args：RepositoryAdmin [id=1022, name=张瑶赐, sex=男, tel=18888888888, address=重庆, birth=2017-09-14, repositoryBelongID=null]
+ [09-14-17-22-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin修改仓库管理员信息成功
+ [09-14-17-22-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-22-27][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteRepositoryAdmin	args：1022
+ [09-14-17-22-27][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteUserInfo	args：1022
+ [09-14-17-22-27][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin删除仓库管理员信息成功
+ [09-14-17-22-27][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-23-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:addRepositoryAdmin	args：RepositoryAdmin [id=null, name=张瑶赐, sex=男, tel=188888888, address=重庆, birth=2017-09-14, repositoryBelongID=null]
+ [09-14-17-23-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserInfo	args：UserInfoDTO{userID=1023, userName='张瑶赐', password='1023', firstLogin=false, role=[commonsAdmin]}
+ [09-14-17-23-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin添加仓库管理员信息成功
+ [09-14-17-23-42][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-23-47][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteRepositoryAdmin	args：1023
+ [09-14-17-23-47][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:deleteUserInfo	args：1023
+ [09-14-17-23-48][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin删除仓库管理员信息成功
+ [09-14-17-23-48][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-24-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:addRepositoryAdmin	args：RepositoryAdmin [id=null, name=张瑶赐, sex=男, tel=1888888888, address=重庆, birth=2017-09-14, repositoryBelongID=null]
+ [09-14-17-24-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserInfo	args：UserInfoDTO{userID=1024, userName='张瑶赐', password='1024', firstLogin=false, role=[commonsAdmin]}
+ [09-14-17-24-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin添加仓库管理员信息成功
+ [09-14-17-24-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-24-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1logout
+ [09-14-17-24-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1024
+ [09-14-17-24-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1024
+ [09-14-17-24-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1024张瑶赐0:0:0:0:0:0:0:1login
+ [09-14-17-25-20][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args：1024{oldPassword=021bbc7ee20b71134d53e20206bd6feb, newPassword=b1d50bed1b5a57ad63fa7655880b4f6b, rePassword=b1d50bed1b5a57ad63fa7655880b4f6b}
+ [09-14-17-25-20][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1024
+ [09-14-17-25-20][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateUserInfo	args：UserInfoDTO{userID=1024, userName='张瑶赐', password='445776432f399ff9430dd4441085d80a', firstLogin=false, role=[commonsAdmin]}
+ [09-14-17-25-52][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1024张瑶赐0:0:0:0:0:0:0:1logout
+ [09-14-17-26-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1001
+ [09-14-17-26-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1001
+ [09-14-17-26-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1login
+ [09-14-17-26-18][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-26-19][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectUnassign	args：
+ [09-14-17-26-23][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateRepositoryAdmin	args：RepositoryAdmin [id=1024, name=张瑶赐, sex=男, tel=1888888888, address=重庆, birth=2017-09-14, repositoryBelongID=1005]
+ [09-14-17-26-23][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin修改仓库管理员信息成功
+ [09-14-17-26-23][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：05
+ [09-14-17-27-31][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:addCustomer	args：Customer [id=null, name=重庆理工大学, personInCharge=张瑶赐, tel=15909314794, email=2419237790@qq.com, address=重庆理工大学]
+ [09-14-17-27-31][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin添加客户信息成功
+ [09-14-17-28-34][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:addSupplier	args：Supplier [id=null, name=重庆理工大学, personInCharge=张瑶赐, tel=18888888888, email=2419237790@qq.com, address=重庆理工大学]
+ [09-14-17-28-34][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertUserOperationRecord	args：1001admin添加供应商信息成功
+ [09-14-17-28-39][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1001admin0:0:0:0:0:0:0:1logout
+ [09-14-17-28-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args：1024
+ [09-14-17-28-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args：1024
+ [09-14-17-28-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args：1024张瑶赐0:0:0:0:0:0:0:1login
+ [09-14-17-28-56][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAll	args：100505
+ [09-14-17-29-11][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByName	args：-1-1重庆理工
+ 

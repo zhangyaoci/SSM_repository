@@ -3,6 +3,7 @@
 <script>
 	$(function() {
 		bootstrapValidatorInit();
+		console.log("用户密码修改");
 	});
 
 	function bootstrapValidatorInit(){

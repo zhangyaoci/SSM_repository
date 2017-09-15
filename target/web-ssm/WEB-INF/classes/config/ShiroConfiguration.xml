@@ -16,7 +16,7 @@
                    Shiro 核心组件 配置
          ============================================-->
 
-    <!-- 配置 security manager -->
+    <!-- 配置 security manager 权限的认证 -->
     <bean id="securityManager" class="org.apache.shiro.web.mgt.DefaultWebSecurityManager">
         <property name="cacheManager" ref="cacheManager"/>
         <property name="authenticator" ref="authenticator"/>

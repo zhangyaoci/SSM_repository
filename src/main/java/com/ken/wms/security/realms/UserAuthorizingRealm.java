@@ -41,6 +41,8 @@ public class UserAuthorizingRealm extends AuthorizingRealm {
         // 创建存放用户角色的 Set
         Set<String> roles = new HashSet<>();
 
+        System.out.println("用户的角色设定");
+
         //获取用户角色
         Subject currentSubject = SecurityUtils.getSubject();
         Session session = currentSubject.getSession();
@@ -65,18 +67,23 @@ public class UserAuthorizingRealm extends AuthorizingRealm {
         String realmName = getName();
         String credentials = "";
 
+        System.out.println("@@@@@用户认证和授权完毕+realName"+realmName);
         System.out.println("进行用户的认证");
 
 
         try {
             // 获取用户名对应的用户账户信息
             UsernamePasswordToken usernamePasswordToken = (UsernamePasswordToken) authenticationToken;
+
+            //获取唯一标示
             String principal = usernamePasswordToken.getUsername();
 
             if (!StringUtils.isNumeric(principal))
                 throw new AuthenticationException();
 
             Integer userID = Integer.valueOf(principal);
+
+            //从数据库中添加
             UserInfoDTO userInfoDTO = userInfoService.getUserInfo(userID);
 
             if (userInfoDTO != null) {
@@ -90,6 +97,7 @@ public class UserAuthorizingRealm extends AuthorizingRealm {
                 String checkCode = (String) session.getAttribute("checkCode");
                 String password = userInfoDTO.getPassword();
                 if (checkCode != null && password != null) {
+                    System.out.println("从数据库中得到的密码"+password);
                     checkCode = checkCode.toUpperCase();
                     credentials = MD5Util.MD5(password + checkCode);
                 }

@@ -33,12 +33,8 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-/**
- * 用户账户请求 Handler
- *
- * @author Ken
- * @since 017/2/26.
- */
+
+
 @Controller
 @RequestMapping("/account")
 public class AccountHandler {
@@ -77,11 +73,13 @@ public class AccountHandler {
         Subject currentUser = SecurityUtils.getSubject();
 
         System.out.println("当前用户"+currentUser.toString());
+
         // 判断用户是否已经登陆
         if (currentUser != null && !currentUser.isAuthenticated()) {
 
 
             String id = (String) user.get(USER_ID);
+            //前台传过来的加密数据
             String password = (String) user.get(USER_PASSWORD);
             System.out.println("登录用户没有登录时用户和密码"+id+"%%"+password);
 
@@ -91,6 +89,7 @@ public class AccountHandler {
             try {
                 // 执行登陆操作
                 currentUser.login(token);
+                System.out.println("@@@@@用户认证和授权完毕22222");
 
                 /* 设置 session 中 userInfo 的其他信息 */
                 UserInfoDTO userInfo = (UserInfoDTO) session.getAttribute("userInfo");
@@ -114,8 +113,10 @@ public class AccountHandler {
                 result = Response.RESPONSE_RESULT_SUCCESS;
 
             } catch (UnknownAccountException e) {
+                //用户名错误
                 errorMsg = "unknownAccount";
             } catch (IncorrectCredentialsException e) {
+                //密码和验证码错误
                 errorMsg = "incorrectCredentials";
             } catch (AuthenticationException e) {
                 errorMsg = "authenticationError";

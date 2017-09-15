@@ -113,6 +113,7 @@ pageEncoding="UTF-8"%>
                     </div>
                     <div id="collapse2" class="panel-collapse collapse collapseBody in">
                         <div class="panel-body">
+                            <%--权限认证标签--%>
                             <shiro:hasRole name="systemAdmin">
                                 <ul class="list-group">
                                     <li class="list-group-item">

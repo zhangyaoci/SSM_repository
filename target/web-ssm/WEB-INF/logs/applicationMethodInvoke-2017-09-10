@@ -1,0 +1,30 @@
+[09-10-14-27-07][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-10-14-27-07][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-10-14-27-07][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-10-17-42-04][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-10-17-42-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-10-17-42-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-10-17-42-14][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-10-18-06-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-10-18-06-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-10-18-06-10][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-10-18-07-02][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=e10adc3949ba59abbe56e057f20f883e, newPassword=b1d50bed1b5a57ad63fa7655880b4f6b, rePassword=b1d50bed1b5a57ad63fa7655880b4f6b}
+ [09-10-18-07-02][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-10-18-07-02][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateUserInfo	args£ºUserInfoDTO{userID=1001, userName='admin', password='e7ede2d30039fb1558b7f8be34b79c7e', firstLogin=false, role=[systemAdmin]}
+ [09-10-18-07-07][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1logout
+ [09-10-18-07-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-10-18-07-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-10-18-07-21][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-10-18-07-32][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectUserOperationRecord	args£º-105
+ [09-10-18-07-40][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all05
+ [09-10-18-07-52][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectUserOperationRecord	args£º-105
+ [09-10-18-07-54][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all05
+ [09-10-18-07-58][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all010
+ [09-10-18-08-01][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all05
+ [09-10-18-08-06][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all55
+ [09-10-18-08-07][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all105
+ [09-10-18-08-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all155
+ [09-10-18-08-09][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all205
+ [09-10-18-08-09][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectAccessRecord	args£º-1all255
+ [09-10-18-08-12][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectUserOperationRecord	args£º-105
+ 

@@ -26,7 +26,7 @@
 					</div>
 
 					<!-- 登陆面板的主体 -->
-					<div class="panel-body" style="background:#eee; height: 260px;">
+					<div class="panel-body" style="background:#eee;">
 
 						<form id="login_form" class="form-horizontal" style="" role="form">
 								<div class="form-group">
@@ -107,7 +107,7 @@
 			refreshCheckCode();
 		});
 
-		// 刷新图形验证码
+		// 刷新图形验证码 存储src的值 作为后面的验证信息
 		function refreshCheckCode() {
 			$('#checkCodeImg').click(function() {
 				var timestamp = new Date().getTime();
@@ -115,7 +115,7 @@
 			})
 		}
 
-		// 登陆信息加密模块
+		// 登陆信息加密模块 三条数据拼凑成一条字符串
 		function infoEncrypt(userID, password, checkCode) {
 			var str1 = $.md5(password);
 			var str2 = $.md5(str1 + userID);
