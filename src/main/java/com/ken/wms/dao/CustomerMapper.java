@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 客户信息 Customer 映射器
- * @author Ken
+
  *
  */
 public interface CustomerMapper {

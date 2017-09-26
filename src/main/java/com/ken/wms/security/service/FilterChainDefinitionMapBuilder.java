@@ -9,8 +9,6 @@ import java.util.List;
 
 /**
  * 获取 URL 权限信息工厂类
- * @author ken
- * @since 2017/2/26.
  */
 public class FilterChainDefinitionMapBuilder {
     @Autowired

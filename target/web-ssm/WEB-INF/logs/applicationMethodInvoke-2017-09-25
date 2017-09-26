@@ -1,0 +1,6 @@
+[09-25-08-54-39][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-25-09-00-15][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-25-09-00-15][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-25-09-00-15][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-25-09-34-55][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1logout
+ 

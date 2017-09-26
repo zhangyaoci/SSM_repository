@@ -11,8 +11,6 @@ import org.springframework.beans.factory.annotation.Autowired;
  * Shiro Session 监听器
  * 当Shiro 的 session 被创建、注销或过期的时候触发
  *
- * @author ken
- * @since 2017/7/22.
  */
 public class SessionListener extends SessionListenerAdapter {
 

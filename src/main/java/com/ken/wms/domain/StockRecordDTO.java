@@ -3,8 +3,7 @@ package com.ken.wms.domain;
 /**
  * 出库/入库记录DO
  *
- * @author Ken
- * @since 2017/4/5.
+
  */
 public class StockRecordDTO {
 

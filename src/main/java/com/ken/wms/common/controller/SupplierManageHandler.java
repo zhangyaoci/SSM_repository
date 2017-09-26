@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  * 供应商信息管理请求 Handler
  *
- * @author Ken
+ *
  */
 @RequestMapping(value = "/**/supplierManage")
 @Controller

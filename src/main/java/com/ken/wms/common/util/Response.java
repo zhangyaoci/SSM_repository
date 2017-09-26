@@ -6,9 +6,7 @@ import java.util.Map;
 
 /**
  * controller 返回的信息载体 response
- * @author ken
- *
- * Created by Ken on 2017/1/18.
+
  */
 public class Response {
 

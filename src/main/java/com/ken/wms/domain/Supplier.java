@@ -3,7 +3,7 @@ package com.ken.wms.domain;
 /**
  * 供应商信息
  * 
- * @author Ken
+
  *
  */
 public class Supplier {

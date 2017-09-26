@@ -2,7 +2,6 @@ package com.ken.wms.domain;
 
 /**
  * 货物信息
- * @author Ken
  *
  */
 public class Goods {

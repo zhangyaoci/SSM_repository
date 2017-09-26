@@ -2,7 +2,6 @@ package com.ken.wms.domain;
 
 /**
  * 系统的使用用户
- * @author Ken
  *
  */
 public class User {

@@ -3,8 +3,7 @@ package com.ken.wms.exception;
 /**
  * 业务层异常的父类
  *
- * @author Ken
- * @since 2017/3/8.
+
  */
 public class BusinessException extends Exception{
 

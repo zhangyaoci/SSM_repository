@@ -24,8 +24,7 @@ import java.util.*;
 /**
  * 系统操作日志 Service 实现
  *
- * @author Ken
- * @since 2017/4/7.
+
  */
 @Service
 public class SystemLogServiceImpl implements SystemLogService {

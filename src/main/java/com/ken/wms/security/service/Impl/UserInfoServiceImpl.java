@@ -22,8 +22,6 @@ import java.util.Set;
 /**
  * 用户账户信息 service 实现类
  *
- * @author ken
- * @since 2017/2/26.
  */
 @Service
 public class UserInfoServiceImpl implements UserInfoService {

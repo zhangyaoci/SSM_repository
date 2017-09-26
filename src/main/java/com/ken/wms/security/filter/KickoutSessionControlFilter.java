@@ -20,9 +20,6 @@ import java.util.LinkedList;
 
 /**
  * 实现并发登陆人数控制
- *
- * @author Ken
- * @since 2017/4/27.
  */
 public class KickoutSessionControlFilter extends AccessControlFilter {
 

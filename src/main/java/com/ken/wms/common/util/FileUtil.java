@@ -8,8 +8,7 @@ import java.io.IOException;
 /**
  * 文件操作工具类
  *
- * @author Ken
- * @since 2017/4/22.
+
  */
 public class FileUtil {
 

@@ -15,8 +15,6 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * 扩展 FormAuthenticationFilter ，对部分方法重写，使其支持 Ajax 请求
  *
- * @author ken
- * @since 2017/2/26
  */
 public class ExtendFormAuthenticationFilter extends FormAuthenticationFilter {
     private static final Logger log = LoggerFactory.getLogger(FormAuthenticationFilter.class);

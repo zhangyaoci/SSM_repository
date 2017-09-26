@@ -11,7 +11,7 @@ import java.util.Random;
 /**
  * 图形验证码生成器
  *
- * @author Ken
+ *
  */
 public class CaptchaGenerator {
 

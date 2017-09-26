@@ -21,8 +21,6 @@ import java.util.Set;
 /**
  * 用户的认证与授权
  *
- * @author ken
- * @since 2017/2/26.
  */
 public class UserAuthorizingRealm extends AuthorizingRealm {
 

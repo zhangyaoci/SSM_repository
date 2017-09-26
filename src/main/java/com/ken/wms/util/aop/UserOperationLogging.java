@@ -12,8 +12,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 /**
  * 用户操作日志记录
  *
- * @author Ken
- * @since 2017/4/8.
  */
 public class UserOperationLogging {
 

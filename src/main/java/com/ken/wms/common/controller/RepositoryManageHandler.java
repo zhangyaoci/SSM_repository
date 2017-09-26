@@ -24,7 +24,7 @@ import java.util.Map;
 /**
  * 仓库信息管理请求 Handler
  *
- * @author Ken
+ *
  */
 @Controller
 @RequestMapping(value = "/**/repositoryManage")

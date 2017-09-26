@@ -2,7 +2,6 @@ package com.ken.wms.domain;
 
 /**
  * 客户信息
- * @author Ken
  *
  */
 public class Customer {

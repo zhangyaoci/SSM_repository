@@ -3,8 +3,7 @@ package com.ken.wms.common.util;
 /**
  * Response 工厂类
  *
- * @author ken
- * @since 2017/1/18.
+
  */
 public class ResponseFactory {
 

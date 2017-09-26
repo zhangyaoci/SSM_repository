@@ -1,0 +1,48 @@
+[09-15-14-09-26][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1024
+ [09-15-14-11-05][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-14-11-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1024
+ [09-15-14-11-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1024
+ [09-15-14-11-45][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1024ÕÅÑþ´Í0:0:0:0:0:0:0:1login
+ [09-15-14-11-52][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1024ÕÅÑþ´Í0:0:0:0:0:0:0:1logout
+ [09-15-14-12-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-14-12-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-15-14-12-08][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-15-14-27-36][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=b1d50bed1b5a57ad63fa7655880b4f6b, newPassword=b1d50bed1b5a57ad63fa7655880b4f6b, rePassword=b1d50bed1b5a57ad63fa7655880b4f6b}
+ [09-15-14-27-36][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-14-27-36][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateUserInfo	args£ºUserInfoDTO{userID=1001, userName='admin', password='e7ede2d30039fb1558b7f8be34b79c7e', firstLogin=false, role=[systemAdmin]}
+ [09-15-14-29-17][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=b1d50bed1b5a57ad63fa7655880b4f6b, newPassword=b1d50bed1b5a57ad63fa7655880b4f6b, rePassword=b1d50bed1b5a57ad63fa7655880b4f6b}
+ [09-15-14-29-17][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-14-29-17][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateUserInfo	args£ºUserInfoDTO{userID=1001, userName='admin', password='e7ede2d30039fb1558b7f8be34b79c7e', firstLogin=false, role=[systemAdmin]}
+ [09-15-14-31-38][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-14-31-38][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-15-14-31-38][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-15-14-36-26][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=b1d50bed1b5a57ad63fa7655880b4f6b, newPassword=e10adc3949ba59abbe56e057f20f883e, rePassword=e10adc3949ba59abbe56e057f20f883e}
+ [09-15-14-36-26][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-14-36-26][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateUserInfo	args£ºUserInfoDTO{userID=1001, userName='admin', password='6f5379e73c1a9eac6163ab8eaec7e41c', firstLogin=false, role=[systemAdmin]}
+ [09-15-15-01-15][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-01-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-01-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-15-15-01-24][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-15-15-02-09][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=e10adc3949ba59abbe56e057f20f883e, newPassword=b1d50bed1b5a57ad63fa7655880b4f6b, rePassword=b1d50bed1b5a57ad63fa7655880b4f6b}
+ [09-15-15-02-09][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-02-09][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateUserInfo	args£ºUserInfoDTO{userID=1001, userName='admin', password='e7ede2d30039fb1558b7f8be34b79c7e', firstLogin=false, role=[systemAdmin]}
+ [09-15-15-05-44][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=b1d50bed1b5a57ad63fa7655880b4f6b, newPassword=e10adc3949ba59abbe56e057f20f883e, rePassword=e10adc3949ba59abbe56e057f20f883e}
+ [09-15-15-05-44][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-05-44][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateUserInfo	args£ºUserInfoDTO{userID=1001, userName='admin', password='6f5379e73c1a9eac6163ab8eaec7e41c', firstLogin=false, role=[systemAdmin]}
+ [09-15-15-16-22][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-16-22][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-15-15-16-22][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-15-15-30-48][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-30-48][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-15-15-30-48][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ [09-15-15-31-27][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=b1d50bed1b5a57ad63fa7655880b4f6b, newPassword=e10adc3949ba59abbe56e057f20f883e, rePassword=e10adc3949ba59abbe56e057f20f883e}
+ [09-15-15-31-27][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-31-39][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=b1d50bed1b5a57ad63fa7655880b4f6b, newPassword=e10adc3949ba59abbe56e057f20f883e, rePassword=e10adc3949ba59abbe56e057f20f883e}
+ [09-15-15-31-39][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-31-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:passwordModify	args£º1001{oldPassword=e10adc3949ba59abbe56e057f20f883e, newPassword=b1d50bed1b5a57ad63fa7655880b4f6b, rePassword=b1d50bed1b5a57ad63fa7655880b4f6b}
+ [09-15-15-31-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-15-31-49][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:updateUserInfo	args£ºUserInfoDTO{userID=1001, userName='admin', password='e7ede2d30039fb1558b7f8be34b79c7e', firstLogin=false, role=[systemAdmin]}
+ [09-15-17-14-59][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:getUserInfo	args£º1001
+ [09-15-17-14-59][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:selectByID	args£º1001
+ [09-15-17-14-59][DEBUG] (MethodInvokeLogging:loggingMethodInvoked) - Invoked Method:insertAccessRecord	args£º1001admin0:0:0:0:0:0:0:1login
+ 

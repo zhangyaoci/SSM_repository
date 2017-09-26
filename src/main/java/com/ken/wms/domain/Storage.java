@@ -3,7 +3,7 @@ package com.ken.wms.domain;
 /**
  * 仓库库存
  * 
- * @author Ken
+
  *
  */
 public class Storage {

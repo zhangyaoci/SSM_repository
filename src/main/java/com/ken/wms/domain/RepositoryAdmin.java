@@ -4,7 +4,7 @@ import java.sql.Date;
 
 /**
  * 仓库管理员信息
- * @author Ken
+
  *
  */
 public class RepositoryAdmin {

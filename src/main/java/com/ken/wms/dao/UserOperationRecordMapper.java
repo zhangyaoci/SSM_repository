@@ -8,9 +8,7 @@ import java.util.List;
 
 /**
  * 用户操作记录Mapper
- *
- * @author Ken
- * @since 2017/4/9.
+
  */
 public interface UserOperationRecordMapper {
 

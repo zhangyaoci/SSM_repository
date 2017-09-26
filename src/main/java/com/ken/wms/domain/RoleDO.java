@@ -2,7 +2,7 @@ package com.ken.wms.domain;
 
 /**
  * 系统使用的角色信息
- * @author Ken
+
  *
  */
 public class RoleDO {

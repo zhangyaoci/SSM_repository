@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * 出库记录 映射器
  *
- * @author Ken
+ *
  */
 public interface StockOutMapper {
 

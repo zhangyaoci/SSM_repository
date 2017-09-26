@@ -24,7 +24,7 @@ import java.util.*;
 /**
  * 仓库管理员管理 service 实现类
  *
- * @author Ken
+
  */
 @Service
 public class RepositoryAdminManageServiceImpl implements RepositoryAdminManageService {

@@ -2,7 +2,7 @@ package com.ken.wms.domain;
 
 /**
  * 仓库信息
- * @author Ken
+
  *
  */
 public class Repository {

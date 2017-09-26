@@ -7,8 +7,7 @@ import java.util.List;
 /**
  * 用户账户信息 Mapper
  *
- * @author ken
- * @since 2017/2/26.
+
  */
 public interface UserInfoMapper {
 
